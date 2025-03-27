@@ -1,0 +1,15 @@
+GitHub was launched in 2008. It is git based repository hosting platform.
+Is only hosts projects that use the Git VCS
+It is free for public repositeries and for private one it is paid.
+GitHub is written using Ruby and Erlang
+It has something called Gists(a way to share code snippets)
+It comes with its own Wiki and issue tracking system.
+Here, we can decide if someone gets a read or write access to a repository.
+It’s the largest repository host with more than 38 million projects
+It has size limitations. The file size can’t be more than 100 Mb while the repository can host 1Gb of information.
+Some remarkable features of GitHub are
+1. Commit History can be seen
+2. Graphs: pulse, contributors, commits, code frequency, members of it.
+3. Pull requests with code review and comments
+4. Issue Tracking
+5. Email notification 
